@@ -1,8 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jane Doe",
-  "description" : "Demo",
-  "keywords": [ "descriptive", "related", "freecodecamp" ],
+	"description": "Demo",
+	"keywords": [
+		"descriptive",
+		"related",
+		"freecodecamp"
+	],
+  "license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
